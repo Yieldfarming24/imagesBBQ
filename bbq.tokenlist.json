@@ -19,7 +19,7 @@
       "decimals": 18,
       "name": "Wrapped ETH",
       "symbol": "ETH",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/ETH.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/weth.png"
     },
     {
       "chainId": 5112,
