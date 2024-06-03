@@ -1,0 +1,50 @@
+{
+  "name": "BBQ Tokens",
+  "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/bbq.png",
+  "keywords": [
+    "ETH",
+    "defi",
+    "ethereum",
+    "bridge"
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 5112,
+      "address": "0x30005Fd5eE0480D0ccFdDe168BBe4527Ffb27062",
+      "decimals": 18,
+      "name": "BBQSwap",
+      "symbol": "BBQ",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/bbq.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "name": "Wrapped ETH",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/eth.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x30005Fd5eE0480D0ccFdDe168BBe4527Ffb27062",
+      "decimals": 18,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/usdc.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0xE8DD44d0791B73afe9066C3A77721f42d0844bEB",
+      "decimals": 18,
+      "name": "The Next 100x Memecoin on Base",
+      "symbol": "TN100x",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tn100.png"
+    }
+  ],
+  "timestamp": "2022-02-05T12:00:00+00:00"
+}
