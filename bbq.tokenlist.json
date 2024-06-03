@@ -44,7 +44,287 @@
       "name": "The Next 100x Memecoin on Base",
       "symbol": "TN100x",
       "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tn100.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x489A9121ac2D99a29556AbbCA80c02fd3C755418",
+      "decimals": 18,
+      "name": "CHAD",
+      "symbol": "CHAD",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/chad.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x1259276781757704EfD471c7F73F343C7f60Ac4a",
+      "decimals": 18,
+      "name": "DEGEN",
+      "symbol": "DEGEN",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/degen.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x7172ACB16Ac0C11f717fF699CC23bf881b60124F",
+      "decimals": 18,
+      "name": "CRASH",
+      "symbol": "CRASH",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/crash.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x822c3f852A395975D10dEBB8886518621b508954",
+      "decimals": 18,
+      "name": "BORED",
+      "symbol": "BORED",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/bored.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x8F5e92accBcacd7585926E00C88b7F596F2A8Dfd",
+      "decimals": 18,
+      "name": "HIGHER",
+      "symbol": "HIGHER",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/higher.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x2EEE4f5631f0863114601aAFF0706940AECb791c",
+      "decimals": 18,
+      "name": "PURRCOIN",
+      "symbol": "PURR",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/purrcoin.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0xa5781A046B10B38355AaDA3039951356fEE26A5c",
+      "decimals": 18,
+      "name": "MFER",
+      "symbol": "MFER",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/mfer.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x46D1639976a19443D36203853bFC156fC05eaF03",
+      "decimals": 18,
+      "name": "MEMBER",
+      "symbol": "MEMBER",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/member.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x1548CA622cd77e07d1B05F667E814D6320eA6FAF",
+      "decimals": 18,
+      "name": "PEN",
+      "symbol": "PEN",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/pen.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x9dFb118ba733785216726A35EBeDD5c181bea03A",
+      "decimals": 18,
+      "name": "WRAWR",
+      "symbol": "WRAWR",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/wrawr.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x397B539003888e05e7Bf291cef5FfD69424E1b6C",
+      "decimals": 18,
+      "name": "TYBG",
+      "symbol": "TYBG",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tybg.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x3b301bBca166f9523bBADf0F55dc733cb69C8b52",
+      "decimals": 18,
+      "name": "SHAKA",
+      "symbol": "SHAKA",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/shaka.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x39874feF8dAca2a4fb8eE4abC44DA31AD8167853",
+      "decimals": 18,
+      "name": "VIRTUAL",
+      "symbol": "VIRTUAL",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/virtual.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x437EBFaa970345b7FbCb4C9aC278902856610c9B",
+      "decimals": 18,
+      "name": "GLOOM",
+      "symbol": "GLOOM",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/gloom.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x72CB15d01D1219678Cc7B1f3B545459A66D74Ac3",
+      "decimals": 18,
+      "name": "ROCK",
+      "symbol": "ROCK",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/rock.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x8EEd334826BaBA2bf0FCB03e97D5e6b39b41d230",
+      "decimals": 18,
+      "name": "PILL",
+      "symbol": "PILL",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/pill.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0xBfe9C207508CCcEAc8bD60D0A01Eada13B55bE79",
+      "decimals": 18,
+      "name": "DUDE",
+      "symbol": "DUDE",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/dude.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x9922B08815Bf00B72060A8596335fd80Bc915515",
+      "decimals": 18,
+      "name": "DOGINME",
+      "symbol": "DOGINME",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/doginme.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0xD6b018D25e16381B52049e04875a290B9Ec42dEB",
+      "decimals": 18,
+      "name": "SPX",
+      "symbol": "SPX",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/spx.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x334B2b98087d555598AFBe3C3823D3981C0DD156",
+      "decimals": 18,
+      "name": "JAPAN",
+      "symbol": "JAPAN",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/japan.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x059Be3ad5F7dCa3CF41e376a3d367fe9ae58C8dB",
+      "decimals": 18,
+      "name": "NOM",
+      "symbol": "NOM",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/nom.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x7210D62c1893433C144e69CB94730Ad1aA93ddbb",
+      "decimals": 18,
+      "name": "NOGS",
+      "symbol": "NOGS",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/nogs.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x8221ccad6E9327B5F0978e42df0c5A2f8f7fAAc0",
+      "decimals": 18,
+      "name": "L2VE",
+      "symbol": "L2VE",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/l2ve.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0xd11512c866Eb8BA500966e5bd5623C5dC3fb0C3f",
+      "decimals": 18,
+      "name": "TOSHI",
+      "symbol": "TOSHI",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/toshi.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0xbf816855d2420BE98D19c429d35f3DCb63397466",
+      "decimals": 18,
+      "name": "MOCHI",
+      "symbol": "MOCHI",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/mochi.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0xF20e5B2d748572F73BB5e143b312188DFa95952c",
+      "decimals": 18,
+      "name": "DUH",
+      "symbol": "DUH",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/duh.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0xC8ee20E5dfB6Ab465324B07cda356ba62EEDeaB2",
+      "decimals": 18,
+      "name": "LOWER",
+      "symbol": "LOWER",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/lower.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0xb313B6B101E0DE4139D07C4Fd690A89fb9e2E789",
+      "decimals": 18,
+      "name": "DOG",
+      "symbol": "DOG",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/dog.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x5440ABD35ED274b1783AA66ecB70fa5dC041F275",
+      "decimals": 18,
+      "name": "PIZZA",
+      "symbol": "PIZZA",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/pizza.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0xB209C83d18c5AB079331b5d1708723F2Bc0C0fA6",
+      "decimals": 18,
+      "name": "SENDIT",
+      "symbol": "SENDIT",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/sendit.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x2c7Bb8516A08cB83776E038934a3e9b3Bbb54b80",
+      "decimals": 18,
+      "name": "HUNT",
+      "symbol": "HUNT",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/hunt.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0xe374BD638d5f1529DAB101ac6198C5A517D873B8",
+      "decimals": 18,
+      "name": "BMX",
+      "symbol": "BMX",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/bmx.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0xa155274497e8fd5a22C77B687D73810F0531e9Da",
+      "decimals": 18,
+      "name": "PHAM",
+      "symbol": "PHAM",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/pham.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0x83F4507Fd5DE223D3DcC0aAA274f4FCF28a06Dc1",
+      "decimals": 18,
+      "name": "BLEU",
+      "symbol": "BLEU",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/bleu.png"
+    },
+    {
+      "chainId": 5112,
+      "address": "0xBD16e51B1513107989AE357A561dBE545b2e1b1A",
+      "decimals": 18,
+      "name": "AM",
+      "symbol": "AM",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/am.png"
     }
   ],
-  "timestamp": "2022-02-05T12:00:00+00:00"
+  "timestamp": "2024-06-03T12:00:00+00:00"
 }
