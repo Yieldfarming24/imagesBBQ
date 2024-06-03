@@ -15,6 +15,14 @@
   "tokens": [
     {
       "chainId": 5112,
+      "address": "0xeb36F753BD92bA498e42cB22C1624b6274831B7D",
+      "decimals": 18,
+      "name": "BBQSwap",
+      "symbol": "BBQ",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/bbq.png"
+    },
+    {
+      "chainId": 5112,
       "address": "0x4200000000000000000000000000000000000006",
       "decimals": 18,
       "name": "Wrapped ETH",
