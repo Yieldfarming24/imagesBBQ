@@ -1,6 +1,6 @@
 {
   "name": "BBQ Tokens",
-  "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/bbq.png",
+  "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/bbq.png",
   "keywords": [
     "ETH",
     "defi",
@@ -19,7 +19,7 @@
       "decimals": 18,
       "name": "BBQSwap",
       "symbol": "BBQ",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/bbq.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/bbq.png"
     },
     {
       "chainId": 5112,
@@ -27,7 +27,7 @@
       "decimals": 18,
       "name": "Wrapped ETH",
       "symbol": "ETH",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/weth.png"
     },
     {
       "chainId": 5112,
@@ -35,7 +35,7 @@
       "decimals": 18,
       "name": "USD Coin",
       "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/usdc.png"
     },
     {
       "chainId": 5112,
@@ -43,7 +43,7 @@
       "decimals": 18,
       "name": "The Next 100x Memecoin on Base",
       "symbol": "TN100x",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tn100.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/tn100.png"
     },
     {
       "chainId": 5112,
@@ -51,7 +51,7 @@
       "decimals": 18,
       "name": "CHAD",
       "symbol": "CHAD",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/chad.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/chad.png"
     },
     {
       "chainId": 5112,
@@ -59,7 +59,7 @@
       "decimals": 18,
       "name": "DEGEN",
       "symbol": "DEGEN",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/degen.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/degen.png"
     },
     {
       "chainId": 5112,
@@ -67,7 +67,7 @@
       "decimals": 18,
       "name": "CRASH",
       "symbol": "CRASH",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/crash.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/crash.png"
     },
     {
       "chainId": 5112,
@@ -75,7 +75,7 @@
       "decimals": 18,
       "name": "BORED",
       "symbol": "BORED",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/bored.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/bored.png"
     },
     {
       "chainId": 5112,
@@ -83,7 +83,7 @@
       "decimals": 18,
       "name": "HIGHER",
       "symbol": "HIGHER",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/higher.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/higher.png"
     },
     {
       "chainId": 5112,
@@ -91,7 +91,7 @@
       "decimals": 18,
       "name": "PURRCOIN",
       "symbol": "PURR",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/purrcoin.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/purrcoin.png"
     },
     {
       "chainId": 5112,
@@ -99,7 +99,7 @@
       "decimals": 18,
       "name": "MFER",
       "symbol": "MFER",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/mfer.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/mfer.png"
     },
     {
       "chainId": 5112,
@@ -107,7 +107,7 @@
       "decimals": 18,
       "name": "MEMBER",
       "symbol": "MEMBER",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/member.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/member.png"
     },
     {
       "chainId": 5112,
@@ -115,7 +115,7 @@
       "decimals": 18,
       "name": "PEN",
       "symbol": "PEN",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/pen.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/pen.png"
     },
     {
       "chainId": 5112,
@@ -123,7 +123,7 @@
       "decimals": 18,
       "name": "WRAWR",
       "symbol": "WRAWR",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/wrawr.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/wrawr.png"
     },
     {
       "chainId": 5112,
@@ -131,7 +131,7 @@
       "decimals": 18,
       "name": "TYBG",
       "symbol": "TYBG",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tybg.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/tybg.png"
     },
     {
       "chainId": 5112,
@@ -139,7 +139,7 @@
       "decimals": 18,
       "name": "SHAKA",
       "symbol": "SHAKA",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/shaka.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/shaka.png"
     },
     {
       "chainId": 5112,
@@ -147,7 +147,7 @@
       "decimals": 18,
       "name": "VIRTUAL",
       "symbol": "VIRTUAL",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/virtual.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/virtual.png"
     },
     {
       "chainId": 5112,
@@ -155,7 +155,7 @@
       "decimals": 18,
       "name": "GLOOM",
       "symbol": "GLOOM",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/gloom.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/gloom.png"
     },
     {
       "chainId": 5112,
@@ -163,7 +163,7 @@
       "decimals": 18,
       "name": "ROCK",
       "symbol": "ROCK",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/rock.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/rock.png"
     },
     {
       "chainId": 5112,
@@ -171,7 +171,7 @@
       "decimals": 18,
       "name": "PILL",
       "symbol": "PILL",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/pill.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/pill.png"
     },
     {
       "chainId": 5112,
@@ -179,7 +179,7 @@
       "decimals": 18,
       "name": "DUDE",
       "symbol": "DUDE",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/dude.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/dude.png"
     },
     {
       "chainId": 5112,
@@ -187,7 +187,7 @@
       "decimals": 18,
       "name": "DOGINME",
       "symbol": "DOGINME",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/doginme.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/doginme.png"
     },
     {
       "chainId": 5112,
@@ -195,7 +195,7 @@
       "decimals": 18,
       "name": "SPX",
       "symbol": "SPX",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/spx.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/spx.png"
     },
     {
       "chainId": 5112,
@@ -203,7 +203,7 @@
       "decimals": 18,
       "name": "JAPAN",
       "symbol": "JAPAN",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/japan.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/japan.png"
     },
     {
       "chainId": 5112,
@@ -211,7 +211,7 @@
       "decimals": 18,
       "name": "NOM",
       "symbol": "NOM",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/nom.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/nom.png"
     },
     {
       "chainId": 5112,
@@ -219,7 +219,7 @@
       "decimals": 18,
       "name": "NOGS",
       "symbol": "NOGS",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/nogs.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/nogs.png"
     },
     {
       "chainId": 5112,
@@ -227,7 +227,7 @@
       "decimals": 18,
       "name": "L2VE",
       "symbol": "L2VE",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/l2ve.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/l2ve.png"
     },
     {
       "chainId": 5112,
@@ -235,7 +235,7 @@
       "decimals": 18,
       "name": "TOSHI",
       "symbol": "TOSHI",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/toshi.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/toshi.png"
     },
     {
       "chainId": 5112,
@@ -243,7 +243,7 @@
       "decimals": 18,
       "name": "MOCHI",
       "symbol": "MOCHI",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/mochi.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/mochi.png"
     },
     {
       "chainId": 5112,
@@ -251,7 +251,7 @@
       "decimals": 18,
       "name": "DUH",
       "symbol": "DUH",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/duh.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/duh.png"
     },
     {
       "chainId": 5112,
@@ -259,7 +259,7 @@
       "decimals": 18,
       "name": "LOWER",
       "symbol": "LOWER",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/lower.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/lower.png"
     },
     {
       "chainId": 5112,
@@ -267,7 +267,7 @@
       "decimals": 18,
       "name": "DOG",
       "symbol": "DOG",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/dog.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/dog.png"
     },
     {
       "chainId": 5112,
@@ -275,7 +275,7 @@
       "decimals": 18,
       "name": "PIZZA",
       "symbol": "PIZZA",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/pizza.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/pizza.png"
     },
     {
       "chainId": 5112,
@@ -283,7 +283,7 @@
       "decimals": 18,
       "name": "SENDIT",
       "symbol": "SENDIT",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/sendit.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/sendit.png"
     },
     {
       "chainId": 5112,
@@ -291,7 +291,7 @@
       "decimals": 18,
       "name": "HUNT",
       "symbol": "HUNT",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/hunt.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/hunt.png"
     },
     {
       "chainId": 5112,
@@ -299,7 +299,7 @@
       "decimals": 18,
       "name": "BMX",
       "symbol": "BMX",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/bmx.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/bmx.png"
     },
     {
       "chainId": 5112,
@@ -307,7 +307,7 @@
       "decimals": 18,
       "name": "PHAM",
       "symbol": "PHAM",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/pham.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/pham.png"
     },
     {
       "chainId": 5112,
@@ -315,7 +315,7 @@
       "decimals": 18,
       "name": "BLEU",
       "symbol": "BLEU",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/bleu.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/bleu.png"
     },
     {
       "chainId": 5112,
@@ -323,7 +323,7 @@
       "decimals": 18,
       "name": "AM",
       "symbol": "AM",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/am.png"
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/am.png"
     }
   ],
   "timestamp": "2024-06-03T12:00:00+00:00"
