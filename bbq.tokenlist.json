@@ -26,7 +26,7 @@
       "address": "0x4200000000000000000000000000000000000006",
       "decimals": 18,
       "name": "Wrapped ETH",
-      "symbol": "ETH",
+      "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/weth.png"
     },
     {
