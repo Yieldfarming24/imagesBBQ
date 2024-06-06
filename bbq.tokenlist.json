@@ -32,7 +32,7 @@
     {
       "chainId": 5112,
       "address": "0x30005Fd5eE0480D0ccFdDe168BBe4527Ffb27062",
-      "decimals": 18,
+      "decimals": 6,
       "name": "USD Coin",
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/usdc.png"
