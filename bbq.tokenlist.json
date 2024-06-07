@@ -31,14 +31,6 @@
     },
     {
       "chainId": 5112,
-      "address": "0x30005Fd5eE0480D0ccFdDe168BBe4527Ffb27062",
-      "decimals": 6,
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBBQ/main/tokens/usdc.png"
-    },
-    {
-      "chainId": 5112,
       "address": "0xE8DD44d0791B73afe9066C3A77721f42d0844bEB",
       "decimals": 18,
       "name": "The Next 100x Memecoin on Base",
